@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "StochBlock"]
+	path = StochBlock
+	url = https://github.com/cran/StochBlock
+[submodule "dBlockmodeling"]
+	path = dBlockmodeling
+	url = https://github.com/cran/dBlockmodeling
+[submodule "kmBlock"]
+	path = kmBlock
+	url = https://github.com/cran/kmBlock
